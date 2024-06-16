@@ -1,5 +1,5 @@
 # shopping_store
-A simple shopping store website write with javascript
+A simple shopping store webpage write with javascript
 -------------------------------------------------------------
 Demo video google drive link : <https://drive.google.com/file/d/1XatvlgsL-NC_udDF8ZZ5up1PPUTdbQ92/view?usp=drive_link>  
   
